@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img-nav
+{
+    height: 100px;
+    width: 250px;
+}
+#nav-1
+{
+    color: black;
+    font-family: roboto;
+}
+.img-c
+{
+    height: 100vh;
+}
+
+.os-section
+{
+  
+    padding:25px;
+    padding-top: 40px;
+}
+.os-heading
+{
+    color:#183b56;
+    font-family: roboto;
+    font-weight: bold;
+}
+.os-para
+{
+    color: #616c7c;
+    font-family: roboto;
+    font-size: 25px;
+}
+.os-card
+{
+    background-color: white;
+    text-align: center;
+    border-radius:0px;
+    padding: 15px;
+    border-width: 0px;
+    border-style: solid;
+    
+    margin: 10px;
+    margin-bottom: 15px;
+
+}
+.img
+{
+    height: 150px;
+    width: 130px;
+}
+.os-card-title
+{
+    font-family: roboto;
+    padding: 10px;
+}
+.os-card-para
+{
+    font-family: roboto;
+    font-size: 20px;
+    color:#6d7173 ;
+}
+.offers
+{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.op-card
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+.p-title
+{
+    color: white;
+}
+.button1
+{
+    color:#ff9f00 ;
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #ff9f00;
+}
+.btn
+{
+    color: black;
+    border-color: black;
+}
+.op-card2
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+.p-link
+{
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.bgoffers
+{
+    background-image: linear-gradient( to right,#f49541,#dd5d97);
+    height: 100vh;
+}
+.offers-img
+{
+    height: 500px;
+    width: 500px;
+}
+.offers-img2
+{
+    height: 200px;
+    width: 500px;
+}
+.offers-img3
+{
+    height: 150px;
+    width: 200px;
+}
+.offers-img4
+{
+    height: 500px;
+    width: 500px;
+}
+.offers-heading
+{
+    font-family: roboto;
+    color:#ad2167 ;
+    font-size: 50px;
+}
+.offers-para
+{
+    font-family: roboto;
+    color: white;
+    font-size: 30px;
+}
+.offers-span
+{
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+.title
+{
+    font-family: roboto;
+    color:#959ead ;
+    font-size: 20px;
+}
+.p-title
+{
+    color: #959ead;
+    font-family: roboto;
+    font-size: 30px;
+}
+.p-heading
+{
+    color:#183b56 ;
+    font-family: roboto;
+    font-weight: bold;
+}
+.p-link
+{
+    color: #ff9f00;
+    font-family: roboto;
+    font-weight: bold;
+}
+.heading
+{
+    color: #183b56;
+    font-family: roboto;
+    font-weight: bold;
+}
+.img1
+{
+    border-radius: 20px;
+    margin: 10px;
+    height: 120px;
+}
+.img2
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.img4
+{
+    height: 150px;
+    width: 160px;
+    border-radius: 10px;
+}
+.bgc
+{
+    background-color:#f5f7fa ;
+}
+.heading-contact
+
+{
+    color: #183b56;
+    font-weight: bold;
+    font-family: roboto;
+}
+.button
+{
+    color:#ff9f00 ;
+    border-color: #ff9f00;
+    font-family: roboto;
+    padding: 5px;
+}*/
+.heading {
+    font-family: roboto;
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.para {
+    color: #5a7184;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+
+}
+
+.para2 {
+    color: #5a7184;
+    font-family: roboto;
+    font-size: 23px;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.hr-line {
+    background-color: #5a7184;
+
+}
+
+.p {
+    color: #959ead;
+    font-family: roboto;
+}
+
+.img {
+    margin: 20px;
+    height: 100px;
+    width: 200px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 30px;
+}
+
+.circle {
+    background-color: #202b36;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.bg {
+    background-color: #19232d;
+   background-size: cover;
+    
+}
